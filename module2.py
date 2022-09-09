@@ -8,7 +8,7 @@ if num>0:
 elif num==0:
     print("number is zero")
 else:
-    print("number is nagative")
+    print("number is negative")
 
 
 
